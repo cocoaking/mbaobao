@@ -1,0 +1,30 @@
+1、路由钩子（有的人会说路由守卫）有哪些
+2、data变量为什么要以函数的形式定义
+3、keepalive缓存设置，如果退回再进来不需要缓存了又该怎么设置
+4、watch监听的两种方式 ，普通数据和对象监听写法不一样
+5、开发过什么组件
+6、数据的深拷贝与浅拷贝
+7、原型与原型链
+8、es6相关 const常量一般数据不能改 但是能改对象里的键值
+9、promise async await promise.all()可同时加载多个api
+10、url从输入到展示到页面发生的五个步骤
+11、vue的数据绑定原理object.defineproperty(),get \set设置
+12、v（Visio）node vdom的理解，里面涉及到diff算法
+13、闭包的概念及闭包会产生什么副作用
+14、vue常用指令、vue生命周期
+15、vuex的理解 state getter action mutation module 记住那个循环图
+16、vue性能优化
+17、js事件捕获事件运行机制
+18、webpack优化配置，可以简单描述一下
+19、git的相关用法 git add git merge (很多公司用git)
+20、本身项目做的一些业务
+21、vue slot插槽
+22、父子组件通信，父传子，子传父，兄弟通信
+23、computed和watch的区别
+24、对mixins的理解,$nextTick的理解
+25、vue获取dom节点$refs
+26、v-show 与v-if的区别
+27、服务端渲染ssr的了解
+29、js优化，css优化
+30、路由参数的获取的两种方式
+31、面试之前写几篇博客心得放到网站上拿来面试用用
